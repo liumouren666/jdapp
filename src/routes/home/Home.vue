@@ -174,6 +174,7 @@ export default {
     },
     mounted(){
         this.getlist();
+        console.log(222222222)
         
     }
 }
