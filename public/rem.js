@@ -10,5 +10,5 @@ resetRootFZ()
 
 // 当window窗口尺寸变化时，重新设置根字体的大小
 window.addEventListener('resize',function(){
-  resetRootFZ()
+    resetRootFZ()
 });
